@@ -107,3 +107,41 @@ Engenharia Social - Atitudes comportamentais/pessoais, "roubo" ou acesso a dados
 **Certificação Digital** - É a identidade eletrônica de uma pessoa ou empresa. Ele funciona como uma carteira de identificação virtual e permite assinar documentos à distância com o mesmo valor jurídico da assinatura feita de próprio punho no papel, mas sem precisar reconhecer firma em cartório. É utilizado por meio da internet em funções como: Receita Federal por meio do Portal e-CAC, INSS e as juntas comerciais. Tem vantagens de segurança, comodidade e agilidade.
 
 **------------------------------------------------------------------------------------------------------------------------------------**
+
+**O que é e para que serve uma licença de software?**
+
+    O licenciamento de software é uma autorização que o desenvolvedor de um determinado software concede para que empresas utilizem a plataforma e todas suas funcionalidades com segurança. No momento em que a empresa contrata um serviço digital com o devido licenciamento, ganha o direito legal de usar o software.
+
+**O que é Software Proprietário, Software de Domínio Público, Adware, Freeware, Shareware, Software de código aberto?**
+    
+    - Software proprietário: é aquele cuja cópia, redistribuição ou modificação são proibidos pelo autor em determinado grau. É necessário solicitar permissão ou pagar para utilizar. Pode ser freeware, shareware, trial ou demo.
+
+    - Software em Domínio Público: o autor do software relega a propriedade do programa e este se torna bem comum, ou seja, não possui copyright. Entretanto, o autor pode restringir que modificações sejam feitas.
+
+    - Adware: é qualquer programa de computador que executa automaticamente e exibe uma grande quantidade de anúncios sem a permissão do usuário.
+
+    - Freeware: é qualquer programa de computador cuja utilização não implica o pagamento de licenças de uso ou royalties.
+
+    - Shareware: é o software disponibilizado gratuitamente por um período de tempo ou com algumas funções abertas, mas que implica no posterior pagamento pela sua licença.
+
+    - Software Livre: qualquer programa que tem a liberdade de ser usado, copiado, modificado e redistribuído. Opõe-se ao conceito de software proprietário. Pode ser vendido ou disponibilizado gratuitamente.
+
+**O que é GNU General Public License?**
+
+    A GNU General Public Licence  é a licença dos softwares livres por excelência. Ela determina as condições de distribuição que garantem liberdades ao utilizador. Um programa protegido pela GPL é livre, mas a GPL impõe também que todo o trabalho derivado desse software seja livre.
+
+**O que é GNU FDL, GNU LGPL, GNU AGPL, Licença livre e Copyleft?**
+
+    - GNU FDL: permite que textos, apresentações e conteúdo de páginas na internet sejam distribuídos e reaproveitados, mantendo, porém, alguns direitos autorais e sem permitir que essa informação seja usada de maneira indevida. A licença não permite, por exemplo, que o texto seja transformado em propriedade de outra pessoa, além do autor ou que sofra restrições a ser distribuído da mesma maneira que foi adquirido.
+
+    - GNU LGPL: é uma licença de software livre, que foi com o objetivo de ser um meio-termo entre a GPL e licenças mais permissivas, como por exemplo a BSD ou a MIT. A principal diferença entre a GPL e a LGPL é que esta permite também a associação com programas que não estejam sob as licenças GPL ou LGPL, incluindo software proprietário. Além disso, os trabalhos derivados, que não estejam sob a LGPL, devem estar disponíveis em bibliotecas.
+
+    - GNU AGPL: é uma licença gratuita e copyleft para software e outros tipos de obras, especificamente projetada para garantir a cooperação com a comunidade no caso de software de servidor de rede. Licenças Públicas Gerais destinam-se a garantir sua liberdade de compartilhar e alterar todas as versões de um programa -- para garantir que ele permaneça como software livre para todos os seus usuários.
+
+    - Licença Livre: é toda licença que garante ao receptor de uma obra protegida por direito autoral, as liberdades de utilizar dos benefícios de seu uso, copiar e distribuir, estudar e modificar, e distribuir modificações daquela obra.
+
+    - Copyleft: Copyleft é um método geral para tornar um programa livre e exigir que todas as versões modificadas e extensões do programa também sejam livres.
+
+**Identifique as principais licenças quando um repositório é criado no GitHub**
+
+    GNU GPL, Licença livre
