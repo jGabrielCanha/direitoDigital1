@@ -160,4 +160,4 @@ Engenharia Social - Atitudes comportamentais/pessoais, "roubo" ou acesso a dados
 
 **Identifique as principais licenças quando um repositório é criado no GitHub**
 
-    GNU GPL, Licença livre
+    GNU GPL, Licença livre, GNU LGPL
