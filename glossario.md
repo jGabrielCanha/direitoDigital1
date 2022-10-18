@@ -158,6 +158,8 @@ Engenharia Social - Atitudes comportamentais/pessoais, "roubo" ou acesso a dados
 
     - Copyleft: Copyleft é um método geral para tornar um programa livre e exigir que todas as versões modificadas e extensões do programa também sejam livres.
 
+    - Creative Commons: é voltada a expandir a quantidade de obras criativas disponíveis, através de suas licenças que permitem a cópia e compartilhamento com menos restrições que o tradicional todos direitos reservados.
+
 **Identifique as principais licenças quando um repositório é criado no GitHub**
 
     GNU GPL, Licença livre, GNU LGPL
