@@ -146,7 +146,7 @@ Engenharia Social - Atitudes comportamentais/pessoais, "roubo" ou acesso a dados
     Liberdade 3 - Liberdade para melhorar o programa e disponibilizar as melhorias para o público, de forma que toda a comunidade possa se beneficiar disso. Ter acesso ao código fonte é essencial também para isso.
 
 
-**O que é GNU FDL, GNU LGPL, GNU AGPL, Licença livre e Copyleft?**
+**O que é GNU FDL, GNU LGPL, GNU AGPL, Creative Commons, Licença livre e Copyleft?**
 
     - GNU FDL: permite que textos, apresentações e conteúdo de páginas na internet sejam distribuídos e reaproveitados, mantendo, porém, alguns direitos autorais e sem permitir que essa informação seja usada de maneira indevida. A licença não permite, por exemplo, que o texto seja transformado em propriedade de outra pessoa, além do autor ou que sofra restrições a ser distribuído da mesma maneira que foi adquirido.
 
