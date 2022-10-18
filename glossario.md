@@ -152,7 +152,7 @@ Engenharia Social - Atitudes comportamentais/pessoais, "roubo" ou acesso a dados
 
     - GNU LGPL: é uma forma de copyleft criada para uso em manuais, livros ou outros documentos para garantir que qualquer um tem a real liberdade de copiar e redistribui-los, com ou sem modificações, tanto comercial quanto não comercialmente.
 
-    - GNU AGPL: é uma licença gratuita e copyleft para software e outros tipos de obras, especificamente projetada para garantir a cooperação com a comunidade no caso de software de servidor de rede. Licenças Públicas Gerais destinam-se a garantir sua liberdade de compartilhar e alterar todas as versões de um programa -- para garantir que ele permaneça como software livre para todos os seus usuários.
+    - GNU AGPL: Especificamente projetada para garantir a cooperação com a comunidade no caso de software de servidor de rede. Licenças Públicas Gerais destinam-se a garantir sua liberdade de compartilhar e alterar todas as versões de um programa -- para garantir que ele permaneça como software livre para todos os seus usuários.
 
     - Licença Livre: é toda licença que garante ao receptor de uma obra protegida por direito autoral, as liberdades de utilizar dos benefícios de seu uso, copiar e distribuir, estudar e modificar, e distribuir modificações daquela obra.
 
