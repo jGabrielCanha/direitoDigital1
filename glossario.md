@@ -150,7 +150,7 @@ Engenharia Social - Atitudes comportamentais/pessoais, "roubo" ou acesso a dados
 
     - GNU FDL: permite que textos, apresentações e conteúdo de páginas na internet sejam distribuídos e reaproveitados, mantendo, porém, alguns direitos autorais e sem permitir que essa informação seja usada de maneira indevida. A licença não permite, por exemplo, que o texto seja transformado em propriedade de outra pessoa, além do autor ou que sofra restrições a ser distribuído da mesma maneira que foi adquirido.
 
-    - GNU LGPL: é uma licença de software livre, que foi com o objetivo de ser um meio-termo entre a GPL e licenças mais permissivas, como por exemplo a BSD ou a MIT. A principal diferença entre a GPL e a LGPL é que esta permite também a associação com programas que não estejam sob as licenças GPL ou LGPL, incluindo software proprietário. Além disso, os trabalhos derivados, que não estejam sob a LGPL, devem estar disponíveis em bibliotecas.
+    - GNU LGPL: é uma forma de copyleft criada para uso em manuais, livros ou outros documentos para garantir que qualquer um tem a real liberdade de copiar e redistribui-los, com ou sem modificações, tanto comercial quanto não comercialmente.
 
     - GNU AGPL: é uma licença gratuita e copyleft para software e outros tipos de obras, especificamente projetada para garantir a cooperação com a comunidade no caso de software de servidor de rede. Licenças Públicas Gerais destinam-se a garantir sua liberdade de compartilhar e alterar todas as versões de um programa -- para garantir que ele permaneça como software livre para todos os seus usuários.
 
