@@ -108,6 +108,14 @@ Engenharia Social - Atitudes comportamentais/pessoais, "roubo" ou acesso a dados
 
 **------------------------------------------------------------------------------------------------------------------------------------**
 
+**Licenças** - Regras contratuais de uso
+
+    -> Copyright: Direitos reservados
+                    -> Invenção
+                    -> Linha de código
+
+    -> Copyleft: GPL
+
 **O que é e para que serve uma licença de software?**
 
     O licenciamento de software é uma autorização que o desenvolvedor de um determinado software concede para que empresas utilizem a plataforma e todas suas funcionalidades com segurança. No momento em que a empresa contrata um serviço digital com o devido licenciamento, ganha o direito legal de usar o software.
@@ -129,6 +137,14 @@ Engenharia Social - Atitudes comportamentais/pessoais, "roubo" ou acesso a dados
 **O que é GNU General Public License?**
 
     A GNU General Public Licence  é a licença dos softwares livres por excelência. Ela determina as condições de distribuição que garantem liberdades ao utilizador. Um programa protegido pela GPL é livre, mas a GPL impõe também que todo o trabalho derivado desse software seja livre.
+
+    A GPL baseia-se em 4 liberdades, são elas:
+
+    Liberdade 0 - Liberdade para o programa para quaisquer propósitos;
+    Liberdade 1 - Liberdade para estudar como o programa trabalha e adaptá-lo às suas necessidades. Ter acesso ao código fonte é essencial para isso.
+    Liberdade 2 - Liberdade de redistribuir cópias de forma que você possa ajudar outras pessoas.
+    Liberdade 3 - Liberdade para melhorar o programa e disponibilizar as melhorias para o público, de forma que toda a comunidade possa se beneficiar disso. Ter acesso ao código fonte é essencial também para isso.
+
 
 **O que é GNU FDL, GNU LGPL, GNU AGPL, Licença livre e Copyleft?**
 
