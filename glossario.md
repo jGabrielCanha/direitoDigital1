@@ -163,3 +163,40 @@ Engenharia Social - Atitudes comportamentais/pessoais, "roubo" ou acesso a dados
 **Identifique as principais licenças quando um repositório é criado no GitHub**
 
     GNU GPL, Licença livre, GNU LGPL
+
+**------------------------------------------------------------------------------------------------------------------------------------**
+
+**E-Learning**
+
+    -> O que é ?
+
+    E-learning é um uma forma de educação a distância que emprega recursos computacionais e audiovisuais para promover o aprendizado a uma pessoa, um grupo ou uma comunidade.Além disso E-learning existe apenas no contexto da popularização dos computadores pessoais e da internet, que possibilitaram a troca instantânea de informações e facilitaram o compartilhamento de materiais a distância.
+
+    -> Como funciona ?
+
+    São aplicações projetadas para funcionar como salas de aula virtuais ou ambiente virtual de aprendizagem (AVA), gerando várias possibilidades de interação entre os seus participantes. Em particular, os processos de interação em tempo real são facilitados, permitindo que o aluno tenha contato imediato com o professor e com outros alunos.
+
+    -> Política sobre E-learning ?
+
+    À medida que o aprendizado eletrônico se expande, novas leis e políticas se desenvolvem a cada ano. As leis antigas podem estar desatualizadas e focadas apenas no ensino em sala de aula, portanto, nem todas as "escolas" têm uma política de e-learning em vigor.
+
+    As "escolas" que ainda não têm uma política tendem a seguir as  diretrizes gerais do setor :
+
+    - Esteja ciente dos procedimentos oficiais existentes para obter ou criar um currículo.
+    - Siga todos os padrões e aprovações curriculares atuais.
+    - Considere como os cursos de educação precisam se desenvolver para os alunos.
+
+**Marketing Digital**
+
+    -> O que é ?
+
+    Marketing Digital é o marketing realizado em ambiente digital.Isso permite que as empresas se aproximem mais do seu público, e é nesse ponto que precisam saber se comunicar adequadamente.
+
+    -> Como funciona ?
+
+        
+
+    -> Política sobre Marketing digital ?
+
+    É regida pela Lei Geral de Proteção de Dados (Lei nº 13.709 / 2018).
+
