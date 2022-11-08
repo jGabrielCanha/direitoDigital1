@@ -194,7 +194,7 @@ Engenharia Social - Atitudes comportamentais/pessoais, "roubo" ou acesso a dados
 
     -> Como funciona ?
 
-        
+    O Marketing Digital permite divulgar, seja uma marca ou produto, no momento certo e entregando a mensagem o mais personalizada possível no meio digital. E além disso, sua capacidade para mensuração de resultados também aparece como mais um forte argumento para aplicar esse conjunto de estratégias.
 
     -> Política sobre Marketing digital ?
 
