@@ -200,3 +200,6 @@ Engenharia Social - Atitudes comportamentais/pessoais, "roubo" ou acesso a dados
 
     É regida pela Lei Geral de Proteção de Dados (Lei nº 13.709 / 2018).
 
+**E-government**
+
+    -> Consiste no uso das tecnologias da informação — além do conhecimento nos processos internos de governo — e na entrega dos produtos e serviços do Estado tanto aos cidadãos como à indústria, e no uso de ferramentas eletrônicas e tecnologia da informação para aproximar governo e cidadãos.
